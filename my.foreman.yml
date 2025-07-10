@@ -1,0 +1,5 @@
+---
+plugin: redhat.satellite.foreman
+url: "https://smajumda-rhsat.syslab.pnq2.redhat.com"
+user: "admin"
+password: "redhat"
