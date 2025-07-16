@@ -1,0 +1,6 @@
+---
+plugin: redhat.satellite.foreman
+url: "https://rhsat615.syslab.pnq2.redhat.com"
+user: "admin"
+password: "RedHat1!"
+validate_certs: false
